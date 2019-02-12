@@ -1,0 +1,22 @@
+[?21/?01/?2019 17:46]  Panda, Ashutosh:  
+select * from devl_de9_dt2_batch.IMP_FCT_GOG_UDT_FACT_BKP 
+fact with location
+select * from devl_de9.DE9_V_DT2_PHARMACY_FACT 
+raw fact
+de9dusr
+De9devl1
+ 
+
+
+--------
+
+brasil
+
+[?21/?01/?2019 17:49]  Panda, Ashutosh:  
+select * from devl_de9_dt2_batch.IMP_FCT_COM_UDT_FACTPROD_BKP 
+ 
+[?21/?01/?2019 17:52]  
+http://openrefine.org/ 
+ 
+dr9dusr
+Br9devl1
